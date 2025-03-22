@@ -1,6 +1,7 @@
 # 🚀 Machine Learning with Apache Spark – Hands-On Labs & Projects  
 
-Welcome! This repository contains all the hands-on labs and the final project from **Course 12: "Machine Learning with Apache Spark"**.  
+Welcome! 
+"This repository includes all hands-on labs and the final project from **Course 13: 'Machine Learning with Apache Spark'**, part of the IBM Data Engineering Professional Certificate."
 
 ## 🔥 What’s Inside?  
 📂 **Hands-on Labs** – Step-by-step guided exercises covering essential Spark ML techniques.  
